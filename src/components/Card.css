@@ -1,0 +1,41 @@
+.float-container {
+  border: 3px solid #fff;
+  padding: 20px;
+
+}
+
+.float-child:first-child {
+  width: 58%;
+  height:255px;
+  float: left;
+  padding: 20px;
+  margin-top:20px;
+  margin-bottom: 20px;
+  border-radius: 25px;
+  
+}  
+.float-child:last-child{
+  display: flex;
+  width: 40%;
+  height:255px;
+  float: right;
+  padding: 20px;
+  margin-top:20px;
+  margin-bottom: 20px;
+  border-radius: 25px;
+box-shadow: 1px 1px 1px 1px;
+align-items: center;
+}
+.heading{
+  font-size: larger;
+  font-weight: bold;
+}
+.desc{
+  
+  height:150px;
+}
+.pict{
+  margin-left: auto;
+  margin-right: auto;
+  width:100%;
+}

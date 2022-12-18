@@ -1,0 +1,23 @@
+import React from 'react'
+import Carou from './Carou'
+import Card from './Card'
+ import Times from './Times';
+import './Card.css'
+
+
+const Home = () => {
+  return (
+    <div>
+      <div className="container w-75 h-25 d-inline-block"><Carou/></div> 
+    {Times.map((times,index)=>(
+      
+      <Card heading={times.theme} description={times.description} firstpic={times.image1} secondpic={times.image2}/>
+     
+    ))}
+    </div>
+    
+  )
+}
+
+export default Home
+
