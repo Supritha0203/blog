@@ -31,37 +31,37 @@ const Times=[
         image1:img3,
         image2:img4,
         theme:"FUSION",
-        description:"Here started the Satyanash... But truly it was super exciting to talk to you as a new friend, the phone call that night, ik suk***thi was just a kabab mein haddi. I really enjoyed calling you to inform every small thing"
+        description:"Here started the Satyanash... But truly it was super exciting to talk to you as a new friend, the phone call that night, ik suk***thi was just a kabab mein haddi, but still. I really enjoyed calling you to inform every small thing and slowly started sharing all the things"
     },
     {
         image1:img5,
         image2:img6,
         theme:"TRADITIONAL DAY",
-        description:"A dazzling me and an ordinary you, numerous photos, uncountable memories and your unforgettable dance",
+        description:"A dazzling me and an ordinary you, numerous photos, uncountable memories and your unforgettable dance. Waise black jachtha h tujhpe....",
     },
     {
         image1:img7,
         image2:img8,
         theme:"FIRST THUB VISIT",
-        description:"Whatever might be the reason for visit, it was my first time out with friends where you were present"
+        description:"Whatever might be the reason for visit, it was my first time hang out with friends with you being there. Making me feel protected is your responsibility so I dont need to thank for that"
     },
     {
         image1:img1,
         image2:img2,
         theme:"IKEA",
-        description:"Apart from the interview chaos, yaar mujhe bata koi ikea jaata hai woh bhi ghumne k liye, par sach batau uss din tumhara haath pakadkar bohot acha laga!!!"
+        description:"Apart from the interview chaos, yaar mujhe bata koi ikea jaata hai woh bhi ghumne k liye, par sach batau uss din tumhara haath pakadkar bohot acha laga!!!. I wish we hang out all day like that with no disturbance lekin tum ho jo akele ghumne jaate ho :("
     },
     {
         image1:img9,
         image2:img10,
         theme:"CHARMINAR",
-        description:"Aagaye bete, jaa apne Shalini se hi baat kar, mujhe nhi batana kuch bhi charminar k baare mein"
+        description:"Aagaye bete, jaa apne Shalini se hi baat kar, mujhe nhi batana kuch bhi charminar k baare mein. Poi aame chey pisukko nannu em adgaku, baaga raskoni puskoni tirigaru ga, poi aame dagarne undu"
     },
     {
         image1:img11,
         image2:img12,
         theme:"GAALIYAN",
-        description:"Arey haule, nanu bestfriend enduk ankuntav ane danki sakkaga answer ledu gani pedda caring ane buildup okati. Jab bhagwan dimag baant raha tha, so gya kya, woh brain nhi hai use dirty mind kehte hai. Kani enthaina nuv bangaram ra, ani ankoku, inkosari potti dana annavante kutta chod dungi tujh pe."
+        description:"Arey haule, nanu enduk bestfriend ankuntav ane danki sakkaga answer ledu gani pedda caring ane buildup okati. Jab bhagwan dimag baant raha tha, so gya kya, woh brain nhi hai use dirty mind kehte hai. Kani enthaina nuv bangaram ra, ani ankoku, inkosari potti dana annavante kutta chod dungi tujh pe."
     }
 ];
 export default Times;

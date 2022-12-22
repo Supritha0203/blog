@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react'
+import React from 'react'
 import Carou from './Carou'
 import Card from './Card'
  import Times from './Times';
