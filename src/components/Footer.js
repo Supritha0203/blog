@@ -30,7 +30,7 @@ export default function Footer() {
           </CDBBox>
         </CDBBox>       
       </CDBBox>
-      <small className="text-center mt-5">&copy; You are my property. All rights reserved.</small>
+      <small className="text-center mt-5">&copy; You are my property. You are mine. All rights reserved.</small>
     </CDBBox>
   </CDBFooter>
 );
